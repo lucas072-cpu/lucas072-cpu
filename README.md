@@ -1,4 +1,6 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<head>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
 
 
 ## Hi There!!
@@ -17,5 +19,6 @@
 </p>
 
 ## Studying:
-
+<div style="display: inline_block"><br>
 <i class="devicon-reactnative-original colored"></i>
+</div>
