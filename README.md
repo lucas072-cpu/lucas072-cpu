@@ -19,6 +19,10 @@
 </p>
 
 ## Studying:
-<div style="display: inline_block"><br>
-<i class="devicon-reactnative-original colored"></i>
+<div>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
+    width="40"
+    height="40"
+  />
 </div>
