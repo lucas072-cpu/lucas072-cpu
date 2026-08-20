@@ -3,10 +3,10 @@
 <p align="center">
   <img 
     src="https://github-stats-extended.vercel.app/api?username=lucas072-cpu&show_icons=true&theme=tokyonight" 
-    height="200"
+    height="180"
   />
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas072-cpu&layout=compact&theme=tokyonight" 
-    height="180"
+    height="600"
   />
 </p>
