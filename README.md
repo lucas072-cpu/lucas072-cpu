@@ -7,6 +7,6 @@
   />
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas072-cpu&layout=compact&theme=tokyonight" 
-    height="200"
+    height="500"
   />
 </p>
