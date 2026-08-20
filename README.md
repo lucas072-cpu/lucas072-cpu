@@ -12,3 +12,7 @@
     style="height:180px !important;"
   />
 </p>
+
+## Studying:
+
+<i class="devicon-reactnative-original colored"></i>
