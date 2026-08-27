@@ -9,6 +9,9 @@
   </a>
 </div>
 
+<p>Estudante de Análise e Desenvolvimento de Sistemas na UNICID, atualmente aprimorando meus conhecimentos em programação por meio dos cursos da Rocketseat, com foco em desenvolvimento Full Stack. 🚀</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
