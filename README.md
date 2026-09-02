@@ -62,6 +62,12 @@
     width="40"
     height="40"
   />
+  <img
+  src="./assets/github.svg"
+  width="40"
+  height="40"
+  alt="GitHub"
+>
 </div>
 
 <picture align="center">
